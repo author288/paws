@@ -1,4 +1,4 @@
-# wasm_cpu_flow
+# PAWS
 
 ### 1. Preparation
 
